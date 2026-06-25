@@ -13,7 +13,7 @@ Matches the published thesis methodology exactly:
 ## Results (from thesis)
 | Finding | Result |
 |---|---|
-| Top performer | **Pegasus** — excelled in fluency and structural coherence |
+| Top performer | **Pegasus** excelled in fluency and structural coherence |
 | Evaluation metric | ROUGE (1, 2, L) |
 | Statistical method | Paired t-tests |
 
