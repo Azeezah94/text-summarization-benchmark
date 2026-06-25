@@ -1,7 +1,7 @@
 # Automatic Text Summarization: A Transformer Model Benchmark
 **Author:** Azeezat Akinola | [LinkedIn](https://www.linkedin.com/in/azeezat-akinola-710b73113) | [Portfolio](https://Azeezah94.github.io)
 
-Fine-tunes and benchmarks four leading transformer models — **Pegasus**, **BART**, **T5**, and **FLAN-T5** — on Amazon review summarization, scored with ROUGE and statistical testing.
+Fine-tunes and benchmarks four leading transformer models **Pegasus**, **BART**, **T5**, and **FLAN-T5** — on Amazon review summarization, scored with ROUGE and statistical testing.
 
 ## Methodology
 Matches the published thesis methodology exactly:
