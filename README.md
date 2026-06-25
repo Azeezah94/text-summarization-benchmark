@@ -30,4 +30,4 @@ python src/summarization_benchmark.py
 
 ## Publication
 Part of: *"Evaluating Multimodal AI Systems: A Comparative Analysis of Large Language Model-Based Models for Text, Image, and Video Generation"*
-M.S. Thesis, Georgia Southern University, 2025 — [Read the full thesis](https://digitalcommons.georgiasouthern.edu/etd/2944/)
+M.S. Thesis, Georgia Southern University, 2025 [Read the full thesis](https://digitalcommons.georgiasouthern.edu/etd/2944/)
